@@ -35,7 +35,7 @@ Building takes a while:
 
 ![](https://i.imgur.com/Mb6dFqi.png)
 
-binder is building a docker image. then it will push the image:
+binder is building an image. then it will push the image:
 
 ![](https://i.imgur.com/3WI7uvf.png)
 
