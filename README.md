@@ -64,7 +64,7 @@ gunzip SRR2584857_1.fastq.gz
 fastqc SRR2584857_1.fastq 
 ```
 
-outputs:
+commands with screen outputs:
 ```
 (learnconda) jovyan@jupyter-marisalim-2dtesting-2dbinders-2d47sgv8r0:~$ fastqc
 Exception in thread "main" java.awt.HeadlessException: 
