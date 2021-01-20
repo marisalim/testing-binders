@@ -12,7 +12,7 @@ Click on the badge to open binder. It may take a few minutes to load:
 
 ### Step 2: add binder environment files
 
-On `master` branch, add all the files you want for binder in `./binder/`.
+On `main` branch, add all the files you want for binder in `./binder/`.
 
 Once you're done, make branch to point pangeo to so that it doesn't get accidentally changed (e.g., `stable-binder`)
 
